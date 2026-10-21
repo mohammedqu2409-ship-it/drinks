@@ -1,11 +1,13 @@
-
 import './App.css'
+import HomePage from './pages/HomePage'
 
 function App() {
   
 
   return (
-   <div>Wrelcome to Sode Page</div>
+   <div>
+    <HomePage></HomePage>
+   </div>
   )
 }
 
